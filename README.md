@@ -12,3 +12,10 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
 # DSM-React-Native
+
+
+
+#Trabajo practico final de diseño de software multipantallas por:
+Mercado Matias - 67768
+Simes Pellegrini Valter - 67986
+Turra Matias - 67675
